@@ -5,4 +5,5 @@ package test;
  */
 public class Ta {
     int x=0;
+    int y=0;
 }
